@@ -38,7 +38,8 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
 
 | # | Link público da conversa | Onde o conteúdo foi usado |
 | --- | --- | --- |
-| — | | |
+| 1 | https://chatgpt.com/share/6ac6ec37-1770-83e8-a1b5-affc8fd8d606 | problema no meu pc para liberar o acesso do arquivo .env pq eu uso dualboot :( |
+| - | | |
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
 
